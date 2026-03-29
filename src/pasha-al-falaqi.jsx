@@ -17,7 +17,7 @@ Di luar perkuliahan, saya menikmati eksplorasi proyek-proyek kecil yang bermanfa
   social: {
     github: "github.com/pasha-alfalaqi",
     linkedin: "linkedin.com/in/pasha-alfalaqi",
-    email: "pasha@example.com",
+    email: "mpashaalfalaqi@gmail.com",
   },
 };
 
