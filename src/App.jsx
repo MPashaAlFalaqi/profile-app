@@ -7,11 +7,7 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/pasha-al-falaqi" element={<PashaProfile />} />
-<<<<<<< HEAD
-        
-=======
         <Route path="/krisna-asmara" element={<KrisnaProfile />} />
->>>>>>> origin/dev/krisna-asmara
       </Routes>
     </BrowserRouter>
   )
