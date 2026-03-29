@@ -6,18 +6,18 @@ const profile = {
   class: "T2C",
   major: "Teknologi Informasi",
   domicile: "Bogor, Jawa Barat",
-  about: `Halo! Nama saya, Krisna Asmara, mahasiswa Teknologi Informasi kelas T2C yang memiliki semangat besar dalam dunia teknologi dan pengembangan perangkat lunak. Saya lahir dan besar di Kota Kediri, Jawa Timur — kota yang dikenal dengan tahu takwa dan semangat warga yang ramah.
+  about: `Halo, perkenalkan saya Krisna Asmara, mahasiswa Teknologi Informasi kelas T2C yang memiliki minat dan komitmen tinggi dalam bidang teknologi digital, khususnya pengembangan perangkat lunak. Saya berasal dari Bogor, Jawa Barat, sebuah kota yang dikenal dengan julukan Kota Hujan serta lingkungan yang mendukung perkembangan kreativitas dan pembelajaran.
 
-Sebagai mahasiswa TI, saya memiliki ketertarikan mendalam pada pengembangan web, khususnya di bidang frontend development. Saya percaya bahwa teknologi bukan sekadar alat, melainkan jembatan yang menghubungkan manusia dengan solusi nyata dalam kehidupan sehari-hari.
+Sebagai mahasiswa Teknologi Informasi, saya memiliki ketertarikan yang kuat pada pengembangan web, terutama di bidang frontend development. Saya percaya bahwa teknologi memiliki peran penting dalam menciptakan solusi yang efektif, efisien, dan berdampak bagi kehidupan masyarakat. Oleh karena itu, saya terus berupaya mengembangkan kemampuan teknis maupun pola pikir analitis dalam setiap proses pembelajaran.
 
-Saat ini saya sedang aktif belajar React JS, Tailwind CSS, dan berbagai teknologi web modern. Saya juga senang berkolaborasi dalam tim, berbagi pengetahuan, dan terus berkembang bersama rekan-rekan satu jurusan.
+Saat ini, saya sedang fokus memperdalam pemahaman terhadap berbagai teknologi modern seperti React JS dan Tailwind CSS, serta terus mengikuti perkembangan tren di dunia teknologi informasi. Saya juga memiliki kemampuan bekerja secara individu maupun dalam tim, serta terbuka terhadap kolaborasi dan pertukaran ide.
 
-Di luar perkuliahan, saya menikmati eksplorasi proyek-proyek kecil yang bermanfaat, mengikuti perkembangan dunia tech terkini, dan mencari cara-cara baru untuk mengaplikasikan ilmu yang didapat di bangku kuliah ke dunia nyata.`,
+Di luar kegiatan akademik, saya aktif mengembangkan keterampilan melalui pembuatan proyek-proyek sederhana, eksplorasi teknologi baru, serta menerapkan ilmu yang diperoleh ke dalam praktik nyata sebagai bentuk pengembangan diri yang berkelanjutan.`,
   skills: ["React JS", "Tailwind CSS", "JavaScript", "HTML & CSS", "Git & GitHub"],
   social: {
-    github: "github.com/pasha-alfalaqi",
-    linkedin: "linkedin.com/in/pasha-alfalaqi",
-    email: "pasha@example.com",
+    github: "github.com/asmrkrisna-cyber",
+    linkedin: "linkedin.com/in/Krisna Asmara",
+    email: "asmrkrisna@gmail.com",
   },
 };
 
