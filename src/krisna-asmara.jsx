@@ -12,9 +12,10 @@ Sebagai mahasiswa Teknologi Informasi, saya memiliki ketertarikan yang kuat pada
 Saat ini, saya sedang fokus memperdalam pemahaman terhadap berbagai teknologi modern seperti React JS dan Tailwind CSS, serta terus mengikuti perkembangan tren di dunia teknologi informasi.`,
   skills: ["React JS", "Tailwind CSS", "JavaScript", "HTML & CSS", "Git & GitHub"],
   social: {
-    github: "github.com/asmrkrisna-cyber",
-    linkedin: "linkedin.com/in/Krisna Asmara",
+    github: "asmrkrisna-cyber",
+    whatssapp: "+62-882-9617-1206",
     email: "asmrkrisna@gmail.com",
+    instagram: "asmara__k"
   },
 };
 
@@ -71,15 +72,29 @@ export default function ProfilKrisna() {
     Kontak
   </h2>
   <div className="space-y-3">
+    <a href="https://github.com/asmrkrisna-cyber" target="_blank" className="flex-1">
     <p className="bg-white/5 border border-indigo-400/30 p-3 rounded-lg hover:bg-indigo-500/10 transition">
       🐙 {profile.social.github}
     </p>
+    </a>
+
+    <a href="https://wa.me/6285977573788" target="_blank" className="flex-1">
     <p className="bg-white/5 border border-indigo-400/30 p-3 rounded-lg hover:bg-indigo-500/10 transition">
-      💼 {profile.social.linkedin}
+      ☎️ {profile.social.whatssapp}
     </p>
+    </a>
+
+    <a href="https://asmrkrisna@gmail.com" target="_blank" className="flex-1">
     <p className="bg-white/5 border border-indigo-400/30 p-3 rounded-lg hover:bg-indigo-500/10 transition">
       📧 {profile.social.email}
     </p>
+    </a>
+
+    <a href="https://www.instagram.com/asmara__k" target="_blank" className="flex-1">
+    <p className="bg-white/5 border border-indigo-400/30 p-3 rounded-lg hover:bg-indigo-500/10 transition">
+      📱 {profile.social.instagram}
+    </p>
+    </a>
   </div>
 </section>
 
