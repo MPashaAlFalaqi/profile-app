@@ -1,7 +1,7 @@
 import fotoProfil from "./assets/akmal.jpg";
 
 const profile = {
-  name: "Afifudin akmal",
+  name: "Pemain Mahjong,Bandar Ganja.",
   class: "T2C",
   major: "Teknologi Informasi",
   domicile: "Malang, Jawa Timur",
